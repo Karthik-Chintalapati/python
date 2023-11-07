@@ -1,1 +1,1 @@
-VS Code - Python
+Visual Studio Code - Python
